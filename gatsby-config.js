@@ -41,12 +41,12 @@ module.exports = {
         accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
       },
     },
-    {
-      resolve: `gatsby-source-instagram`,
-      options: {
-        username: `3168752739`, // Your Instagram
-      },
-    },
+    // {
+    //  resolve: `gatsby-source-instagram`,
+    //  options: {
+    //    username: `3168752739`, // Your Instagram
+    //  },
+    // },
     {
       resolve: `gatsby-plugin-typography`,
       options: {
