@@ -6,9 +6,9 @@ if (process.env.NODE_ENV !== 'production') {
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Cafe`,
-    description: `  `,
-    author: `Cristiano Crolla`,
+    title: `手焙煎珈琲あさぎ`,
+    description: `かまどと薪の火を使って焙煎した珈琲豆`,
+    author: `矢田`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
