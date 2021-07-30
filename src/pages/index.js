@@ -38,9 +38,9 @@ return (
     </section>
     {typeof window !== 'undefined' &&
       <LeafletMap
-        position={[55.952103, -3.196175]} // Your Coordinates
-        zoom={18} // Zoom Level
-        markerText={"Local Cafe, 65 Park Row"} // Icon text
+        position={[35.009782, 136.64648]} // Your Coordinates
+        zoom={17} // Zoom Level
+        markerText={"手焙煎珈琲あさぎ"} // Icon text
       />
     }
     <Footer />
