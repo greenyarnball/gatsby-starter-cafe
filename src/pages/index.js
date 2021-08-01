@@ -19,7 +19,9 @@ return (
     </section>
     <section className="container">
       <span className="description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      浅葱色は日本の伝統色の一つで、江戸時代には庶民の着物にもよく使われていたそうです。
+また、田舎出の武士が着物の裏地に使っていたことから野暮な人を「浅葱裏」と揶揄することもあったそうです。
+そんな浅葱色の歴史のように、庶民的で敷居の低い店でありたい、という想いを込めています。
       </span>
       <div className="gallery-grid">
         <Img fluid={data.latte.childImageSharp.fluid} className="gallery-img1"/>
@@ -27,8 +29,8 @@ return (
         <Img fluid={data.coffeePortrait.childImageSharp.fluid} className="gallery-img3"/>
       </div>
       <div className="about-grid">
-        <h2>WE'RE CRAZY ABOUT COFFEE</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <h2>手焙煎珈琲あさぎ</h2>
+        <p>本文１本文１本文１本文１本文１本文１本文１本文１本文１本文１本文１本文１</p>
       </div>
     </section>
     <div className="parallax"></div>
